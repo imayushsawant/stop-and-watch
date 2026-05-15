@@ -27,8 +27,8 @@ function Timer() {
       myInterval = setInterval(() => {
         setMillisecond((oldValue) => {
           if (oldValue <= 0) {
-              setIsRunning(false)
               clearInterval(myInterval);
+              setIsRunning(false)
               return 0
           }
           return oldValue - 1000;

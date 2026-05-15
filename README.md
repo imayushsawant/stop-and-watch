@@ -2,6 +2,8 @@
 
 A beautifully crafted stopwatch and countdown timer web app built with React. Featuring an aurora glassmorphism design system dubbed **"Liquid Time"** — complete with animated backgrounds, circular progress rings, and smooth micro-interactions.
 
+Live demo: https://stop-and-watch-flame.vercel.app/
+
 ---
 
 ## ✨ Features
